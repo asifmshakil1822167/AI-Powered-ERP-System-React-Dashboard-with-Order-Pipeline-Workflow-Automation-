@@ -1,2 +1,2 @@
 # AI-Powered-ERP-System-React-Dashboard-with-Order-Pipeline-Workflow-Automation-
-Modern ERP Dashboard System (React + Workflow Management + Analytics) Smart ERP System with Order Tracking &amp; Business Automation  Full Stack ERP Solution with Real-Time Dashboard &amp; Pipeline Management  Business ERP Platform with Customer, Orders &amp; Revenue Tracking  SaaS-Style ERP Dashboard with Workflow &amp; Data Visualization
+Modern ERP Dashboard System (React + Workflow Management + Analytics) Smart ERP System with Order Tracking &amp; Business Automation  Full Stack ERP Solution with Real-Time Dashboard &amp; Pipeline Management  Business ERP Platform with Customer, Orders &amp; Revenue Tracking  SaaS-Style ERP Dashboard with Workflow &amp; Data Visualisation
